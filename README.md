@@ -67,7 +67,7 @@ GPIO| Controlling LEDs and buzzer
 
 Simulation Platform: Wokwi
 
-Wokwi Project Link: [Add your simulation link here]
+Wokwi Project Link: [https://wokwi.com/projects/481463461921378305]
 
 Simulation Screenshots:
 
@@ -92,13 +92,15 @@ The system displays temperature, humidity, and light sensor readings. When the p
 STM32-Environmental-Monitoring/
 │
 ├── Firmware/
+│   ├──libraries.txt
 │   └── sketch.ino
+
 │
 ├── Simulation/
-│   ├── diagram.json
-│   ├── circuit.png
-│   ├── oled_output.png
-│   └── serial_output.png
+│   ├── alert output.png
+│   ├── circuit circuit.png
+│   └── oled initialize.png
+│   
 │
 └── README.md
 
